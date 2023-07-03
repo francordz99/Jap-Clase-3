@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-image: url(./fondo.jpg);
+    background-size: cover
+}
+
+.content {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+
+.gokucopado {
+    background-color: black;
+}
